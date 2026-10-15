@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/repo2docker/commit/ebcc593885cc6a7e344520ca1bb8766242093c8f",
       "git:hexsha": "ebcc593885cc6a7e344520ca1bb8766242093c8f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T11:22:37.994110+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/repo2docker/commit/69c09aeca2e92b2f0e7448b3a08dab6513662018",
